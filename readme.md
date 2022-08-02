@@ -1,4 +1,4 @@
-# **PACKAGES AND MODULES** <img align="center" width="120" src="https://raw.githubusercontent.com/abhilashaojha/packages-modules/main/imgs/python-logo.png"> 
+# **PACKAGES AND MODULES**
 
 ![python-logo](https://user-images.githubusercontent.com/77577111/182298776-dbd4edeb-da5b-4d2c-a509-7bb05e0400bd.png) 
 
