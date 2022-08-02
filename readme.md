@@ -1,4 +1,5 @@
-# **PACKAGES AND MODULES** <img align="center" width="120" height="75" src="![python-logo](https://user-images.githubusercontent.com/77577111/182298776-dbd4edeb-da5b-4d2c-a509-7bb05e0400bd.png)"> ![python-logo](https://user-images.githubusercontent.com/77577111/182298776-dbd4edeb-da5b-4d2c-a509-7bb05e0400bd.png) 
+# **PACKAGES AND MODULES** <img align="center" width="120" height="75" src="![python-logo](https://user-images.githubusercontent.com/77577111/182298776-dbd4edeb-da5b-4d2c-a509-7bb05e0400bd.png)"> 
+![python-logo](https://user-images.githubusercontent.com/77577111/182298776-dbd4edeb-da5b-4d2c-a509-7bb05e0400bd.png) 
 
 > I am curating a list of vastly used packages and modules along with its implementation in python.
 
